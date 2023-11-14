@@ -227,4 +227,4 @@ public class MainActivity extends AppCompatActivity {
 ~~~
 penampilan web nya
 
-![WhatsApp Image 2023-11-14 at 04 10 53](https://github.com/Akramsatya085/UTS-Android/assets/115615953/b88bf9bc-7f17-483d-9855-888ee64f5555)
+<img width="335" alt="2023-11-14" src="https://github.com/YudhaKiana/Android_uts/assets/116049574/9bd64bca-5c02-4cb5-b47d-570fd8d51f45">
